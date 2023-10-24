@@ -21,7 +21,7 @@ export default function Home() {
             <Image
               src={predio}
               alt="predio"
-              className='rounded-3xl -mb-10 shadow-lg'
+              className='rounded-3xl -mb-10 xl:-mb-28 shadow-lg'
             />
           </div>
         </div>
